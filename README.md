@@ -1,2 +1,4 @@
 # Birch_sunday101
- All Project file for Birch
+Contained in WORK folder is an analysis of AWS SDK library for code igniter 2 as requested.
+
+File is in MS word format.
